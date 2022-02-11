@@ -1,3 +1,0 @@
-clr hello hi
-hihi
-hello gh
